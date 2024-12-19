@@ -1,9 +1,5 @@
 # created by OlegXio (github) 
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7ee49d7bff1785613c1ca08b737dd7a0ea9094bb
 127.0.0.1  localhost
 ::1  localhost
 
@@ -12,13 +8,13 @@
 # [main]
 127.0.0.1 vk.com
 127.0.0.1 vk.ru
-<<<<<<< HEAD
 127.0.0.1 m.vk.ru
+127.0.0.1 m.vk.com
 127.0.0.1 login.vk.com
-=======
->>>>>>> 7ee49d7bff1785613c1ca08b737dd7a0ea9094bb
+127.0.0.1 login.vk.ru
 127.0.0.1 api.vk.com
 127.0.0.1 quic-api.vk.com
+127.0.0.1 ads.vk.com
 # [sun vk (media servers)]
 127.0.0.1 sun10-1.userapi.com 
 127.0.0.1 sun10-2.userapi.com
@@ -27,6 +23,8 @@
 127.0.0.1 sun9-11.userapi.com
 127.0.0.1 sun9-33.userapi.com
 127.0.0.1 sun9-46.userapi.com
+127.0.0.1 sun9-79.userapi.com
+127.0.0.1 
 # [other vk]
 127.0.0.1 23111.ms.vk.com
 127.0.0.1 25111.ms.vk.com
@@ -34,26 +32,5 @@
 127.0.0.1 vk157-1.vkuser.net
 127.0.0.1 vkvd217.okcdn.ru
 127.0.0.1 vkvd484.okcdn.ru
-=======
-# spy
-0.0.0.0 ts.tracker-api.my.com
-# [main]
-0.0.0.0 vk.com
-0.0.0.0 api.vk.com
-0.0.0.0 quic-api.vk.com
-# [sun vk (media servers)]
-0.0.0.0 sun10-1.userapi.com 
-0.0.0.0 sun10-2.userapi.com
-0.0.0.0 sun157-1.userapi.com
-0.0.0.0 sun157-2.userapi.com
-0.0.0.0 sun9-11.userapi.com
-0.0.0.0 sun9-33.userapi.com
-0.0.0.0 sun9-46.userapi.com
-# [other vk]
-0.0.0.0 23111.ms.vk.com
-0.0.0.0 25111.ms.vk.com
-0.0.0.0 queuev4.vk.com
-0.0.0.0 vk157-1.vkuser.net
-0.0.0.0 vkvd217.okcdn.ru
-0.0.0.0 vkvd484.okcdn.ru
->>>>>>> 9c6cd0fe75676f3e540341aab5243ec3aa0cb318
+127.0.0.1 vkpns.rustore.ru
+127.0.0.1 vkvd461.okcdn.ru

@@ -1,0 +1,9 @@
+# created by OlegXio (github)
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 elections.gosuslugi.ru 
+127.0.0.1 esia.gosuslugi.ru
+127.0.0.1 www.gosuslugi.ru
+127.0.0.1 gu-st.ru

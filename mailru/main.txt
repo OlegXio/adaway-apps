@@ -1,0 +1,20 @@
+# created by OlegXio (github)
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 alt-af.attachmail.ru
+127.0.0.1 imgs2.imgsmail.ru
+127.0.0.1 ad.mail.ru
+127.0.0.1 alt-ad.mail.ru
+127.0.0.1 alt-af12.mail.ru
+127.0.0.1 alt-aj-https.mail.ru
+127.0.0.1 alt-mpandroid-filin.mail.ru
+127.0.0.1 alt-push-me.mail.ru
+127.0.0.1 731111.mediascope.mail.ru
+127.0.0.1 741111.mediascope.mail.ru
+127.0.0.1 751111.mediascope.mail.ru
+127.0.0.1 o2.mail.ru
+127.0.0.1 rs.mail.ru
+127.0.0.1 rebus.rustore.ru #updates check
+
