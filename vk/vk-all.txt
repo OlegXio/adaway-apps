@@ -38,3 +38,5 @@
 127.0.0.1 vkvd484.okcdn.ru
 127.0.0.1 vkpns.rustore.ru
 127.0.0.1 vkvd461.okcdn.ru
+127.0.0.1 vkvd249.okcdn.ru
+127.0.0.1 vkvd530.okcdn.ru
