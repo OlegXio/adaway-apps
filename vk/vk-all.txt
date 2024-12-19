@@ -1,0 +1,27 @@
+# created by OlegXio (github) 
+
+127.0.0.1  localhost
+::1  localhost
+
+# spy
+127.0.0.1 ts.tracker-api.my.com
+# [main]
+127.0.0.1 vk.com
+127.0.0.1 vk.ru
+127.0.0.1 api.vk.com
+127.0.0.1 quic-api.vk.com
+# [sun vk (media servers)]
+127.0.0.1 sun10-1.userapi.com 
+127.0.0.1 sun10-2.userapi.com
+127.0.0.1 sun157-1.userapi.com
+127.0.0.1 sun157-2.userapi.com
+127.0.0.1 sun9-11.userapi.com
+127.0.0.1 sun9-33.userapi.com
+127.0.0.1 sun9-46.userapi.com
+# [other vk]
+127.0.0.1 23111.ms.vk.com
+127.0.0.1 25111.ms.vk.com
+127.0.0.1 queuev4.vk.com
+127.0.0.1 vk157-1.vkuser.net
+127.0.0.1 vkvd217.okcdn.ru
+127.0.0.1 vkvd484.okcdn.ru
