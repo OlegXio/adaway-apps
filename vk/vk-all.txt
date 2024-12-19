@@ -1,5 +1,9 @@
 # created by OlegXio (github) 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 7ee49d7bff1785613c1ca08b737dd7a0ea9094bb
 127.0.0.1  localhost
 ::1  localhost
 
@@ -8,8 +12,11 @@
 # [main]
 127.0.0.1 vk.com
 127.0.0.1 vk.ru
+<<<<<<< HEAD
 127.0.0.1 m.vk.ru
 127.0.0.1 login.vk.com
+=======
+>>>>>>> 7ee49d7bff1785613c1ca08b737dd7a0ea9094bb
 127.0.0.1 api.vk.com
 127.0.0.1 quic-api.vk.com
 # [sun vk (media servers)]
